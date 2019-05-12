@@ -65,9 +65,9 @@ log2file () {
 ································································
 Compress file/s on:
 
-      - given Path
-      - given File Mask
-      - given time in day to compress, either more or less than X days.
+      - given Path                                                        (*)
+      - given File Mask                                                   (*)
+      - given time in day to compress, either more or less than X days.   (*)
 
    [*] = Mandatory
 ··································································'
@@ -105,16 +105,6 @@ compress_files () {
   log2file "==================================================================="
 
 }
-
-: '································································
-Remove file/s on:
-
-      - given Path
-      - given File Mask
-      - given time in day to remove, either more or less than X days.
-
-   [*] = Mandatory
-··································································'
 
 : '································································
 MAIN:
