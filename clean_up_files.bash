@@ -7,7 +7,6 @@
 ## You can define masks for files in order to remove or compress many at a time.
 ## We will drive this using functions for beeing more generic.
 ## Due to bash limitation on array multidimensional, we try to simulate that behaviour.
-## JFM has met B3t0 long time ago but still in love.
 ##========================================================================
 
 ##========================================================================
