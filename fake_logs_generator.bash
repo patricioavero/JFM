@@ -2,7 +2,6 @@
 
 ## This script has been meant to create log with a certain given mask
 ## It will create fake logs for testing purposes.
-## JFM's ass will be mine.
 
 ## Some Functions
 
